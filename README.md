@@ -1,0 +1,2 @@
+# hotel.html
+project1
